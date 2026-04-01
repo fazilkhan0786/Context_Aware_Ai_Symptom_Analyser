@@ -98,7 +98,7 @@ Contributors will be:
 ## Questions or Suggestions?
 
 - Create an issue for discussions
-- Email: contact@fazilkhanmalek.com
+- Email: malekfazilkhan07@gmail.com
 - GitHub: https://github.com/fazilkhan0786/Context_Aware_Ai_Symptom_Analyser
 
 ---

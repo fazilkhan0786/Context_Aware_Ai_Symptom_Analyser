@@ -188,7 +188,7 @@ This project is licensed under the **MIT License with an Attribution Clause**. T
 
 ### Contact & Support
 
-- **Questions about licensing?** Email: contact@fazilkhanmalek.com
+- **Questions about licensing?** Email: malekfazilkhan07@gmail.com
 - **GitHub**: https://github.com/fazilkhan0786
 - **Report issues or contribute**: https://github.com/fazilkhan0786/Context_Aware_Ai_Symptom_Analyser/issues
 

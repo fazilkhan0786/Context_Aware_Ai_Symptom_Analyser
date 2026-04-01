@@ -1,0 +1,66 @@
+{
+  "name": "ai-symptom-checker",
+  "version": "0.1.0",
+  "private": true,
+  "author": {
+    "name": "Fazilkhan Malek",
+    "email": "contact@fazilkhanmalek.com",
+    "url": "https://github.com/fazilkhan0786"
+  },
+  "contributor": "Fazilkhan Malek",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fazilkhan0786/Context_Aware_Ai_Symptom_Analyser.git"
+  },
+  "bugs": {
+    "email": "contact@fazilkhanmalek.com"
+  },
+  "homepage": "https://github.com/fazilkhan0786/Context_Aware_Ai_Symptom_Analyser#readme",
+  "keywords": [
+    "ai-symptom-checker",
+    "healthcare-ai",
+    "groq-api",
+    "nextjs",
+    "typescript"
+  ],
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start -p 3000",
+    "lint": "eslint",
+    "test": "vitest",
+    "test:run": "vitest run"
+  },
+  "dependencies": {
+    "@radix-ui/react-accordion": "^1.2.12",
+    "@radix-ui/react-label": "^2.1.7",
+    "@radix-ui/react-slot": "^1.2.3",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "groq-sdk": "^0.33.0",
+    "html2canvas": "^1.4.1",
+    "jspdf": "^4.1.0",
+    "lucide-react": "^0.544.0",
+    "next": "15.5.7",
+    "pdfkit": "^0.17.2",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "tailwind-merge": "^3.3.1",
+    "zod": "^4.1.11"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/pdfkit": "^0.17.5",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "15.5.4",
+    "tailwindcss": "^4",
+    "tw-animate-css": "^1.4.0",
+    "typescript": "^5",
+    "vitest": "^3.2.4"
+  }
+}

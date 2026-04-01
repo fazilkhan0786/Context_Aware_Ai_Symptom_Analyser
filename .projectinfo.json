@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "AI Symptom Checker",
+    "version": "0.1.0",
+    "description": "AI-powered bilingual symptom analyzer using Groq API",
+    "author": {
+      "name": "Fazilkhan Malek",
+      "github": "https://github.com/fazilkhan0786",
+      "email": "contact@fazilkhanmalek.com",
+      "linkedin": "https://www.linkedin.com/in/fazilkhan-malek-392082377?utm_source=share_via&utm_content=profile&utm_medium=member_ios"
+    },
+    "copyright": "Copyright (c) 2026 Fazilkhan Malek",
+    "createdYear": 2026,
+    "license": "MIT with Attribution",
+    "licenseFile": "./LICENSE",
+    "authorshipFile": "./AUTHORSHIP.md"
+  },
+  "projectContext": {
+    "initiative": "NuroVed",
+    "parentVision": "Promacle",
+    "mission": "Rebuilding healthcare around continuity, intelligence, and patient-centered digital infrastructure"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fazilkhan0786/Context_Aware_Ai_Symptom_Analyser",
+    "branch": "main"
+  },
+  "attribution": {
+    "required": true,
+    "message": "All uses must include attribution to Fazilkhan Malek as the original creator",
+    "details": "See LICENSE and AUTHORSHIP.md for complete attribution requirements"
+  },
+  "links": {
+    "creator": "https://github.com/fazilkhan0786",
+    "contributingGuidelines": "./CONTRIBUTING.md",
+    "license": "./LICENSE",
+    "authorship": "./AUTHORSHIP.md"
+  }
+}
